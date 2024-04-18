@@ -11,9 +11,9 @@
 
 ## Read Fabric Mirrored warehouse in UC enabled Azure Databricks
 
-- Refer to 
+- Refer to  [Reading Fabric Warehouse items](https://github.com/mahes-a/FabricAzureDatabricksUCIntegration/blob/main/FabricOnelakeDataIntegrationwithUnityCatalog.ipynb)
 
 
 ## Create Fabric Lakehouse shortcuts from  Unity Catalog Azure Databricks
 
-- Refer to https://learn.microsoft.com/en-us/fabric/onelake/onelake-unity-catalog
+- Once previous step is completed Refer to https://learn.microsoft.com/en-us/fabric/onelake/onelake-unity-catalog
